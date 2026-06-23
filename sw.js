@@ -1,4 +1,4 @@
-const CACHE = 'giorni-di-fila-v1';
+const CACHE = 'giorni-di-fila-v2';
 const ASSETS = [
   './',
   './index.html',
